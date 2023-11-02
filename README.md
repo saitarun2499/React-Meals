@@ -2,7 +2,7 @@
 
 This is a simple web application built with React that allows users to browse and search for meals. It leverages the [Meals API](https://example.com/meals-api) to fetch meal data.
 
-![Demo](./demo.png)
+[Demo](https://react-meals01.netlify.app/)
 
 ## Features
 
