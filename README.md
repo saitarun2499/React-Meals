@@ -1,6 +1,28 @@
-# Getting Started with Create React App
+# Meals API-Driven Web Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a simple web application built with React that allows users to browse and search for meals. It leverages the [Meals API](https://example.com/meals-api) to fetch meal data.
+
+![Demo](./demo.png)
+
+## Features
+
+- Browse a list of meals.
+- Search for meals by name.
+- View meal details.
+
+## Technologies Used
+
+- React: A JavaScript library for building user interfaces.
+- Axios: A promise-based HTTP client for making API requests.
+- useState: A React hook for managing state.
+- useEffect: A React hook for handling side effects.
+- React Components: Modular components for building the user interface.
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js: Make sure you have Node.js installed on your computer.
 
 ## Available Scripts
 
